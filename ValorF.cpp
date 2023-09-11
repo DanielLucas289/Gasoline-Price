@@ -2,6 +2,13 @@
 #include <cmath>
 #include <iomanip>
 
+/*
+Já quis ir a algum lugar e não sabia ao certo o quanto de gasolina gastar? Com esse programa basta fornecer
+como entrada a distância que irá percorrer, o valor do consumo de gasolina e alcool de seu carro, e o respectivo
+preço do combustível do posto em que irá abastecer, tendo como resultado quanto seu carro irá consumir de combustível 
+além do valor em que ficara, além de fornecer se é mais vantajoso abastecer com gasolina ou alcool.
+*/
+
 using namespace std;
 
 void EntradaDados();
